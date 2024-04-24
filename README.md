@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 - User interface devices
 - Sensors (optional)
 
-## Contributing
+## Contributing 
 Contributions to the project are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## License
