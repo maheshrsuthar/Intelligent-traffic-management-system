@@ -38,7 +38,7 @@ Contributions to the project are welcome! Please fork the repository, make your 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
-- [Your Name](https://github.com/yourusername)
+- [Mahesh Suthar](https://github.com/mahesh)
 - [Co-author Name](https://github.com/coauthorusername)
 
 ## Acknowledgments
